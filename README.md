@@ -28,7 +28,7 @@ What do we need?
 ---
 You! In whatever way you can help.
 
-We need expertise in web development, user experience design, and recordings of researchers sharing how Open has successfully impacted their career. We currently are drafting a how-to guide for librarians and researchers on recording stories. Our next priority is to design a prototype website that will allow users to discover stories by location, language, academic discipline, and researcher type.
+We need expertise in web development, user experience design, and recordings of researchers sharing how Open has successfully impacted their career. We currently are drafting a how-to guide for librarians and researchers on recording stories. Our next priority is to design a prototype website that will allow users to discover stories by location, language, academic discipline, and researcher type. However, we are wanting to not record new stories for the project until summer 2018 after the how-to guide receives community feedback and revisions. 
 
 We'd love your feedback along the way, and of course, we'd love to include your story.
 
