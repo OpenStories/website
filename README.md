@@ -4,7 +4,7 @@ _Showing a successful Open research career is possible._
 
 Welcome
 ---
-Welcome! Thank you for visiting the Open Stories project repository. This document (README) gives you introductory information about the project. You're currently in the website repo for the project, which is an ideal place to contribute if you have technical skills.
+Welcome! Thank you for visiting the Open Stories project repository. This document (README) gives you introductory information about the project. This project adheres to the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). You're currently in the website repo for the project, which is an ideal place to contribute if you have technical skills.
 
 The Problem
 ---
